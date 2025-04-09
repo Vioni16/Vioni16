@@ -1,6 +1,5 @@
 ## Hi there! I'm Vioni Az Zahra 👋
 
-<!
 - 👩‍💻 Currently an Informatics Engineering student, Software Engineering Technology Study Program at Batam State Polytechnic.
 - 📚 Learning about website developer, data base managment and some programming language.
 - 📬 Reach me: [email] vioniazzahra16@gmail.com
